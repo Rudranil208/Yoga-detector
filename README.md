@@ -1,4 +1,4 @@
-# Yoga-detctor
+# Yoga-detector
 Yoga Pose Detection and Classification
 
 This project uses MediaPipe Pose and OpenCV to detect human poses from images and video streams, classify them into various yoga poses, and visualize key angles.
